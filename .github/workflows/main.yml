@@ -8,8 +8,8 @@
 #---------------------------------------------------------------------
 name: My-GitHubActions-Basics
 env:
-  APPLICATION_NAME    : "MyFlaskApp"
-  DEPLOY_PACKAGE_NAME : "flask-app-ver-${{ github.sha }}"
+  APPLICATION_NAME    : "MyEmptyApp"
+  DEPLOY_PACKAGE_NAME : "just_file-ver-${{ github.sha }}"
 
 on: 
   push:
