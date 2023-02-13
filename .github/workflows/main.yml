@@ -39,6 +39,11 @@ jobs:
           
       - name: List current folder again
         run : ls -la
+        
+      - name: Several cmds
+        run : |
+          echo "Just to test"
+          echo "in the step"
 
   my_deploy:
     runs-on: [ubuntu-latest]
