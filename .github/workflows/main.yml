@@ -1,10 +1,10 @@
 #---------------------------------------------------------------------
-# GitHub Action Workflow Basics
+# GitHub simple Action Workflow
 #
 # Version      Date        Info
-# 1.0          2019        Initial Version
+# 1.0          2023        Initial Version
 #
-# Made by Denis Astahov ADV-IT Copyleft (c) 2019
+# initially made by Denis Astahov ADV-IT Copyleft (c) 2019
 #---------------------------------------------------------------------
 name: My-GitHubActions-Basics
 env:
